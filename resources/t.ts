@@ -8,11 +8,12 @@ export const resources: Resource[] = [
     {
         name: 'Tabler Icons',
         categories: [assets.icons],
-        description: '800+ Highly customizable & free SVG icons.',
+        description: '3000+ pixel-perfect, free and open sourced icons for web design
+',
         links: {
-            [website]: 'https://tablericons.com/',
+            [website]: 'https://tabler-icons.io/',
         },
-        icon: 'https://tablericons.com/favicon.png',
+        icon: 'https://tabler-icons.io/favicon.ico',
     },
     {
         name: 'Tailor Brands',
